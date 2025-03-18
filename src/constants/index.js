@@ -157,7 +157,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Jennifer',
-    description: 'A comic characters list app that displays Marvel characters.',
+    description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
     tags: [
       {
         name: 'react',
@@ -180,7 +180,7 @@ const projects = [
     id: 'project-2',
     name: 'Julia',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Lorem ipsum dolor sit.',
     tags: [
       {
         name: 'react',
@@ -202,7 +202,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'Damilola',
-    description: 'This is a single-page calculator app built with React',
+    description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
     tags: [
       {
         name: 'nextjs',
@@ -224,7 +224,7 @@ const projects = [
   {
     id: 'project-4',
     name: 'Samantha',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    description: `Lorem ipsum dolor sit, amet consectetur adipisicing elit.Lorem ipsum dolor sit, amet consectetur adipisicing elit.`,
     tags: [
       {
         name: 'nextjs',
@@ -247,7 +247,7 @@ const projects = [
     id: 'project-5',
     name: 'Arthur',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'Lorem ipsum dolor sit, amet consectetur adipisicing elit.',
     tags: [
       {
         name: 'nextjs',
